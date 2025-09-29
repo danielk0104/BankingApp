@@ -1,0 +1,64 @@
+{
+    "accounts": [
+        {
+            "name": "Account1",
+            "balance": 976.23,
+            "number": 25864794,
+            "code": "38-48-86",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhVP-hbgWqUD2kinVYzRnk5phQKcq3rrxIA&s"
+        },
+        {
+            "name": "Account2",
+            "balance": 480.05,
+            "number": 95368964,
+            "code": "65-39-73",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhVP-hbgWqUD2kinVYzRnk5phQKcq3rrxIA&s"
+        }
+    ],
+    "payees": [
+        {
+            "name": "Riley"
+        },
+        {
+            "name": "Jacob"
+        },
+        {
+            "name": "Stanley"
+        },
+        {
+            "name": "Max"
+        },
+        {
+            "name": "Kaii"
+        }
+    ],
+    "transactions": [
+        {
+            "name": "Jacob",
+            "amount": 20.05,
+            "date": "10 October 2020"
+        },
+        {
+            "name": "Kaii",
+            "amount": 60.02,
+            "date": "2 January 2021"
+        }
+    ],
+    "products": [
+        {
+            "name": "Loans",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vRun_7oL_vbH8hrVANEeGr8hV3KnlWn1yA&s",
+            "info": "Information about loans..."
+        },
+        {
+            "name": "Mortgages",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hkWl_YKC-yJQBJfYwUnmWo9UsPY9-lTtDg&s",
+            "info": "Information about mortgages..."
+        },
+        {
+            "name": "Credit Cards",
+            "image": "https://www.svgrepo.com/show/146677/credit-card.svg",
+            "info": "Information about credit cards..."
+        }
+    ]
+}
